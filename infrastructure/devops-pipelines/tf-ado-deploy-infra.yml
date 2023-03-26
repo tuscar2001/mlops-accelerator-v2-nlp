@@ -18,7 +18,7 @@ pool:
 resources:
   repositories:
     - repository: mlops-templates 
-      name: HRBI-1/mlops-templates 
+      name: tuscar2001/mlops-templates 
       endpoint: tuscar2001
       type: github
       ref: main #branch name
